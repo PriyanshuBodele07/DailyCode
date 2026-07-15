@@ -19,7 +19,9 @@ public class StudentController {
     }
 
     @PostMapping("/create")
-    public void createStudent(@RequestBody Student student){
+    public String createStudent(@RequestBody Student student){
+      Student createStudent = studentService.createStudent(student);
+      return "Student Created";
 
     }
 
