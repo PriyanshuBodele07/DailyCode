@@ -20,6 +20,7 @@ public class StudentController {
 
     @PostMapping("/create")
     public String createStudent(@RequestBody Student student){
+      System.out.println("inside student Controller");
       Student createStudent = studentService.createStudent(student);
       return "Student Created";
 

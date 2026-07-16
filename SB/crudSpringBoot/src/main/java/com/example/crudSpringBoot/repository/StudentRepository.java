@@ -1,6 +1,12 @@
 package com.example.crudSpringBoot.repository;
 
-class StudentRepository {
+import com.example.crudSpringBoot.entity.Student;
 
-    
+public class StudentRepository {
+
+    public Student saveStudent(Student studentReq){
+        System.out.println("inside student Repository");
+        return null ;
+
+    }
 }
