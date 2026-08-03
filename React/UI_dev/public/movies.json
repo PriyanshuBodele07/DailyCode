@@ -1,0 +1,37 @@
+[
+    {
+        "title": "BHAI TERA STAR HAI",
+        "poster": "m1.png",
+        "language": "Hindi",
+        "certificate": "A"
+    },
+
+    {
+        "title": "PLUTO",
+        "poster": "m2.png",
+        "language": "Malayalam",
+        "certificate": "UA 13+"
+    },
+
+    {
+        "title": "CHENNAI LOVE STORY",
+        "poster": "m3.png",
+        "language": "Telgu",
+        "certificate": "UA 13+"
+    },
+
+    {
+        "title": "JANA NAYAGAN",
+        "poster": "m4.png",
+        "language": "Hindi, Tamil ",
+        "certificate": "A"
+    },
+
+     {
+        "title": "DHAMAAL 4",
+        "poster": "m5.png",
+        "language": "Hindi",
+        "certificate": "UA 13+"
+    }
+
+]
